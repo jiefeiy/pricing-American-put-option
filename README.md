@@ -10,3 +10,4 @@ Run '/interp1d/AmerPut1D.m' to price American put by interpolation and CC quadra
 
 Run '/interp1d/AmerCall1D.m' to price American call with dividend yield by interpolation and CC quadrature.
 
+Run '/LSMC/test_LSM1d.m' to price American put by least square Monte Carlo (LSMC), see Longstaff and Schwartz. 
