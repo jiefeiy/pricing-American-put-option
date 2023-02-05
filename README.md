@@ -6,3 +6,7 @@ generate asset price paths (or anti paths for variance reduction) under the Blac
 
 Run '/InterpValue1d/main3chebfun.m' to implement the dynamic Chebyshev method. This needs the toolbox 'chebfun', see https://www.chebfun.org/.
 
+Run '/interp1d/AmerPut1D.m' to price American put by interpolation and CC quadrature.
+
+Run '/interp1d/AmerCall1D.m' to price American call with dividend yield by interpolation and CC quadrature.
+
