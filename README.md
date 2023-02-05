@@ -1,4 +1,4 @@
-# prcing-American-put-option
+# pricing-American-put-option
 Pricing American option with a single asset.
 
 Run '/pathGen/test_pathBS1d.m' to 
